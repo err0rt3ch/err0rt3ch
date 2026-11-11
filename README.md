@@ -1,5 +1,10 @@
-## Hi there 👋
+## I'm a high school junior interested in Electrical & Computer Engineering and Economics. 
 
+Currently, I'm developing a personal engineering project to gain hands-on experience with electronics, circuit theory, and embedded systems. I'm also learning C++, Arduino IDE, and hardware development through practical experimentation.
+
+I use Fusion 360 for 3D modeling & Altium Designer for electronic design and circuit simulation.
+
+I am always open to feedback, collaboration, and learning from others. Feel free to reach out via email!
 <!--
 **adrielmrr/adrielmrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

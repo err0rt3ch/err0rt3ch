@@ -1,4 +1,4 @@
-## I'm a high school junior interested in Electrical & Computer Engineering and Economics. 
+## Adriel 
 
 Currently, I'm developing a personal engineering project to gain hands-on experience with electronics, circuit theory, and embedded systems. I'm also learning C++, Arduino IDE, and hardware development through practical experimentation.
 
